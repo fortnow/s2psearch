@@ -1,4 +1,4 @@
-I decided as an experiment to vibe code a research paper, in particular an old minor result I never had written up showing that the S2P\-search problem is equivalent to TFNPNP. 
+I decided as an experiment to vibe code a research paper, in particular an old minor result I never had written up showing that the S<sup>2</sup><sub>P<\sub>\-search problem is equivalent to TFNPNP. 
 
 I used Google Antigravity with Gemini 3 as the base model. I used the term “vibe code” because Gemini created the LaTeX code that compiles into the paper.
 
